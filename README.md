@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Adam</h1>
 <h2 align="left">Studying CS @ University of Warwick</h2>
 
-- 📧 You can contact me at [LinkedIn](linkedin.com/in/adammaskhut)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/adammaskhut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/adammaskhut" height="30" width="40" /></a>
