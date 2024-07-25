@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm Adam</h1>
-<h2 align="left">Studying CS @ University of Warwick</h2>
+<h1 align="left">Hi 👋 I'm Adam</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
