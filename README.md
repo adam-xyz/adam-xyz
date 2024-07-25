@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Adam</h1>
-<h3 align="left">Studying CS @ University of Warwick</h3>
+<h2 align="left">Studying CS @ University of Warwick</h2>
 
 - 📧 You can contact me at [LinkedIn](linkedin.com/in/adammaskhut)
 
